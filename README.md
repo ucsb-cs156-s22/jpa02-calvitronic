@@ -4,7 +4,7 @@ Repo: https://github.com/ucsb-cs156-s22/jpa02-calvitronic
 
 On Heroku: https://jpa02-cwdougher.herokuapp.com
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-s22/jpa02-calvitronic
 
 
 # About this repo
